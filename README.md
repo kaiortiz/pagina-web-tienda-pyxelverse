@@ -3,7 +3,7 @@ Contiene productos, stock, carro de compras, distintos tipos de usuario y permis
 
 --- Link repositorio git ---
 
-https://github.com/kaiortiz/django
+https://github.com/kaiortiz/pagina-web-tienda-pyxelverse
 
 
 --- Información adicional ---
